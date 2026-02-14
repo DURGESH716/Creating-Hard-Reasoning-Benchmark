@@ -114,7 +114,7 @@ These paths work out of the box and do not require modification for standard usa
 To run the complete pipeline from scratch:
 
 ```bash
-git clone https://github.com/DURGESH716/Hard-Reasoning-Benchmark.git
+git clone https://github.com/DURGESH716/Creating-Hard-Reasoning-Benchmark.git
 cd Hard-Reasoning-Benchmark
 bash scripts/run_all.sh
 ```
